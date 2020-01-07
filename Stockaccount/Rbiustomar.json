@@ -1,0 +1,25 @@
+[
+  
+  {
+    "Nameofcompany": "RBI SIP",
+    "Numberofshare": 200,
+    "Valueofeachshare": 1000,
+    "Shareremainig": 160,
+    "Companybalances": 40000,
+    "Nameofcustomor": "MANIC SHETH",
+    "Amountdeducted": 40000,
+    "Customarbalances": 80000,
+    "Customarshare": 40
+  },
+  {
+    "Nameofcompany": "RBI SIP",
+    "Numberofshare": 200,
+    "Valueofeachshare": 1000,
+    "Shareremainig": 158,
+    "Companybalances": 42000,
+    "Nameofcustomor": "chatur",
+    "Amountdeducted": 3000,
+    "Customarbalances": 44000,
+    "Customarshare": 2
+  }
+]

@@ -1,0 +1,45 @@
+[
+  
+  {
+    "DoctorName": "Dr.Murli Prashad sharma",
+    "DoctorId": "1",
+    "DoctorSapcialization": "Dermatology",
+    "DoctorAvailability": "1:00 AM TO 12:00 AM",
+    "Appointment": null
+  },
+  {
+    "DoctorName": "Dr.GAIKWAD WAKAWALE",
+    "DoctorId": "2",
+    "DoctorSapcialization": "Anesthesiology",
+    "DoctorAvailability": "1:00 PM TO 12:00 PM",
+    "Appointment": null
+  },
+  {
+    "DoctorName": "Dr. BHATRA KHURANA",
+    "DoctorId": "3",
+    "DoctorSapcialization": "Diagnostic radiology",
+    "DoctorAvailability": "1:00 AM TO 12:00 AM",
+    "Appointment": null
+  },
+  {
+    "DoctorName": "Dr. RADIKA KUMAR SINGH",
+    "DoctorId": "4",
+    "DoctorSapcialization": "ALLERGY & IMMUNOLOGY",
+    "DoctorAvailability": "BOTH AM AND PM",
+    "Appointment": null
+  },
+  {
+    "DoctorName": "DR.Jharkhand baba ",
+    "DoctorId": "6",
+    "DoctorSapcialization": "Aurvedik medicin",
+    "DoctorAvailability": "1:00 PM TO 12:00 PM",
+    "Appointment": null
+  },
+  {
+    "DoctorName": "Dr.Ram",
+    "DoctorId": "5",
+    "DoctorSapcialization": "Skinn spacalist",
+    "DoctorAvailability": "1:00 PM TO 12:00 PM",
+    "Appointment": null
+  }
+]

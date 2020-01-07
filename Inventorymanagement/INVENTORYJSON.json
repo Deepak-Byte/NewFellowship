@@ -1,0 +1,38 @@
+﻿[
+  {
+    "Type": "Rice",
+    "Name": "Basmati",
+    "Weight": 125,
+    "Price": 450
+  },
+  {
+    "Type": "Rice",
+    "Name": "Long Rice",
+    "Weight": 175,
+    "Price": 780
+  },
+  {
+    "Type": "Pulses",
+    "Name": "Masur dal",
+    "Weight": 780,
+    "Price": 70
+  },
+  {
+    "Type": "Pulses",
+    "Name": "Kolam",
+    "Weight": 450,
+    "Price": 80
+  },
+  {
+    "Type": "Wheat",
+    "Name": "Unfloue wheat",
+    "Weight": 450,
+    "Price": 35
+  },
+  {
+    "Type": "Wheat",
+    "Name": "Flored wheat",
+    "Weight": 150,
+    "Price": 60
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "Nameofcompany": "TCS",
+    "Numberofshare": 500,
+    "Valueofeachshare": 1500,
+    "Shareremainig": 480,
+    "Companybalances": 20000,
+    "Nameofcustomor": "SATISH",
+    "Amountdeducted": 20000,
+    "Customarbalances": 50000,
+    "Customarshare": 20
+  },
+  {
+    "Nameofcompany": "TCS",
+    "Numberofshare": 500,
+    "Valueofeachshare": 1500,
+    "Shareremainig": 470,
+    "Companybalances": 35000,
+    "Nameofcustomor": "sunny",
+    "Amountdeducted": 30000,
+    "Customarbalances": 65000,
+    "Customarshare": 10
+  },
+  {
+    "Nameofcompany": "TCS",
+    "Numberofshare": 500,
+    "Valueofeachshare": 1500,
+    "Shareremainig": 460,
+    "Companybalances": 50000,
+    "Nameofcustomor": "yogesh",
+    "Amountdeducted": 15000,
+    "Customarbalances": 125000,
+    "Customarshare": 10
+  }
+]

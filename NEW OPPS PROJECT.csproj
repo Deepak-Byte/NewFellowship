@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <RootNamespace>NEW_OPPS_PROJECT</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="StockAccountManager\swqjjndk.j4r~" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="IKVM" Version="8.1.5717" />
+    <PackageReference Include="latticework.cs" Version="1.0.16" />
+    <PackageReference Include="LinqToExcel" Version="1.11.0" />
+    <PackageReference Include="Nancy" Version="2.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="NHibernate" Version="5.2.6" />
+  </ItemGroup>
+
+</Project>
