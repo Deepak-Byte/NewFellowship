@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\DesignPattern\DesignPattern\obj\Debug\netcoreapp3.0\DesignPattern.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\DesignPattern\DesignPattern\obj\Debug\netcoreapp3.0\DesignPattern.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\DesignPattern\DesignPattern\obj\Debug\netcoreapp3.0\DesignPattern.AssemblyInfo.cs
+C:\Users\admin\source\repos\DesignPattern\DesignPattern\bin\Debug\netcoreapp3.0\DesignPattern.exe
+C:\Users\admin\source\repos\DesignPattern\DesignPattern\bin\Debug\netcoreapp3.0\DesignPattern.deps.json
+C:\Users\admin\source\repos\DesignPattern\DesignPattern\bin\Debug\netcoreapp3.0\DesignPattern.runtimeconfig.json
+C:\Users\admin\source\repos\DesignPattern\DesignPattern\bin\Debug\netcoreapp3.0\DesignPattern.runtimeconfig.dev.json
+C:\Users\admin\source\repos\DesignPattern\DesignPattern\bin\Debug\netcoreapp3.0\DesignPattern.dll
+C:\Users\admin\source\repos\DesignPattern\DesignPattern\bin\Debug\netcoreapp3.0\DesignPattern.pdb
+C:\Users\admin\source\repos\DesignPattern\DesignPattern\obj\Debug\netcoreapp3.0\DesignPattern.dll
+C:\Users\admin\source\repos\DesignPattern\DesignPattern\obj\Debug\netcoreapp3.0\DesignPattern.pdb
+C:\Users\admin\source\repos\DesignPattern\DesignPattern\bin\Debug\netcoreapp3.0\DotLiquid.dll
+C:\Users\admin\source\repos\DesignPattern\DesignPattern\bin\Debug\netcoreapp3.0\it\DotLiquid.resources.dll
+C:\Users\admin\source\repos\DesignPattern\DesignPattern\obj\Debug\netcoreapp3.0\DesignPattern.csproj.CopyComplete
+C:\Users\admin\source\repos\DesignPattern\DesignPattern\bin\Debug\netcoreapp3.0\CsvHelper.dll
