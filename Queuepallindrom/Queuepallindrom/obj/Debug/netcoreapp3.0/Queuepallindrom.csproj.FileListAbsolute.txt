@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\Queuepallindrom\Queuepallindrom\bin\Debug\netcoreapp3.0\Queuepallindrom.exe
+C:\Users\admin\source\repos\Queuepallindrom\Queuepallindrom\bin\Debug\netcoreapp3.0\Queuepallindrom.deps.json
+C:\Users\admin\source\repos\Queuepallindrom\Queuepallindrom\bin\Debug\netcoreapp3.0\Queuepallindrom.runtimeconfig.json
+C:\Users\admin\source\repos\Queuepallindrom\Queuepallindrom\bin\Debug\netcoreapp3.0\Queuepallindrom.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Queuepallindrom\Queuepallindrom\bin\Debug\netcoreapp3.0\Queuepallindrom.dll
+C:\Users\admin\source\repos\Queuepallindrom\Queuepallindrom\bin\Debug\netcoreapp3.0\Queuepallindrom.pdb
+C:\Users\admin\source\repos\Queuepallindrom\Queuepallindrom\obj\Debug\netcoreapp3.0\Queuepallindrom.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Queuepallindrom\Queuepallindrom\obj\Debug\netcoreapp3.0\Queuepallindrom.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Queuepallindrom\Queuepallindrom\obj\Debug\netcoreapp3.0\Queuepallindrom.AssemblyInfo.cs
+C:\Users\admin\source\repos\Queuepallindrom\Queuepallindrom\obj\Debug\netcoreapp3.0\Queuepallindrom.dll
+C:\Users\admin\source\repos\Queuepallindrom\Queuepallindrom\obj\Debug\netcoreapp3.0\Queuepallindrom.pdb
