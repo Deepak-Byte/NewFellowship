@@ -1,0 +1,278 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<html>
+<head>
+    <title> Sigle page Employee Application </title>
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+    <script src="~/js/EmployeeAdd.js"></script>
+    
+</head>
+<body>
+    <style type="text/css">
+        body
+        {
+           
+            background-color: #808080;
+            background-size: cover;
+            height: 100%;
+            background-attachment: fixed;
+        }
+
+        .mainpage {
+            height: 100%;
+            width: 100%;
+            background-size: cover;
+            position: absolute;
+        }
+
+        .formbox {
+            height: 100%;
+            width: 60%;
+            position: relative;
+            margin: 10% auto;
+            background: #83c8bc;
+            padding: 5px;
+            overflow: hidden;
+        }
+
+        .button_box {
+            width: 780px;
+            margin: 15px auto;
+            position: relative;
+            border-radius: 30px;
+        }
+
+        .Add {
+            padding: 5px;
+            cursor: pointer;
+            background: transparent;
+            border: none;
+            position: relative;
+        }
+
+        #btn {
+            top: 0;
+            left: 0;
+            margin-right: 5px;
+            position: absolute;
+            height: 100%;
+            width: 140px;
+            transition: .5s;
+            background: linear-gradient(to right, #ff6a00, #ffd800);
+            border-radius: 50px;
+        }
+
+        .addform {
+            top: 180px;
+            position: absolute;
+            width: 280px;
+            transition: .5s;
+            height: 100%;
+        }
+
+        .Toadd {
+            width: 100%;
+            padding: 10px 0;
+            margin: 5px 0;
+            border-bottom-color: #000;
+            border-bottom-style :solid;
+            //outline:none;
+            //background: linear-gradient(to right, #0094ff);
+            background: transparent;
+            color: #fff;
+        }
+
+        .alleployee {
+            height: 100%;
+            width: 100%;
+        }
+
+        #addid {
+            left: 250px;
+        }
+
+        #deleteid {
+            left: 1200px;
+        }
+
+        #update {
+            left: 2000px;
+        }
+
+        #display {
+            left: 2800px;
+        }
+        #Listview {
+        background-size:cover;
+        }
+        #viewbyid {
+        background-size:cover;
+        }
+        /*The "float" property is used for positioning*/
+        @@media screen and (max-width:1150px) {
+        .formbox
+        {
+            float: none;
+            width:100%;
+        }
+        }
+        @@media screen and (max-width:800px) {
+        .formbox
+        {
+            float: none;
+            width:60%;
+        }
+        }
+        @@media screen and (max-width:320px) {
+        .formbox
+        {
+            float: none;
+            width:60%;
+        }
+        }
+ 
+    </style>
+
+    <!----The upper part include css body include css part----->
+
+    <h1 align="center">Welcome To Employee Managenment System</h1>
+    <div class="mainpage">
+        <div class="formbox">
+            <div class="button_box">
+                <div id="btn" method="post" actions=""></div>
+                <!--This is part of head sliding button-->
+                <button type="button" class="Add" style="margin:20px" onclick="addid()">Add Employee</button>
+                <button type="button" class="Add" style="margin:15px" onclick="deleteid()">Delete Employee</button>
+                <button type="button" class="Add" style="margin:15px" onclick="update()">Update Employee</button>
+                <button type="button" class="Add" style="margin:15px" onclick="search()">Get All Employee</button>
+                <button type="button" class="Add" style="margin:12px" onclick="display()">Search Employee</button>
+            </div>
+
+            <!--This is Add employee form-->
+            <form id="addEmp" class="addform" method="post">
+                <input id="aname" type="text" class="Toadd" placeholder="Enter Name" required>
+                <input id="ae" type="text" class="Toadd" placeholder="Enter Email" required>
+                <input id="an" type="number" class="Toadd" placeholder="Enter Number" required>
+                <input id="aa" type="number" class="Toadd" placeholder="Enter Age" required>
+                <button type="submit" class="submit-buttom" id="btnsubmit" onclick="Add()">
+                    Subbmit
+                </button>
+            </form>
+
+            <!--This is delete employee form-->
+            <form id="deleteid" class="addform">
+                <input id="delid" type="number" class="Toadd" placeholder="Enter Id Employe" required>
+                <button type="button" class="submit-buttom" id="buttondel" onclick="DeleteId()">Delete</button>
+            </form>
+            <!--This is update form of employee-->
+            <form id="update" class="addform">
+                <input id="updid" type="number" class="Toadd" placeholder="Enter Id" required>
+                <input id="updname" type="text" class="Toadd" placeholder="Enter Name" required>
+                <input id="updemail" type="text" class="Toadd" placeholder="Enter Email" required>
+                <input id="updnumber" type="number" class="Toadd" placeholder="Enter Number" required>
+                <input id="updage" type="number" class="Toadd" placeholder="Enter Age" required>
+                <button type="button" class="submit-buttom" onclick="Updatemp()">Update</button>
+            </form>
+
+            <!--This is list employee display form-->
+            <form id="display" class="addform">
+                <ul id="paginationbtn" class="pagination">
+                    <li class="active" onclick="searchemp(0)"><a href="#">&larr;Previous</a></li>
+                    <li class="active" onclick="searchemp(1)"><a href="#">Next&rarr;</a></li>
+                </ul>
+                <table align="center" id="Listview" border="1" width="800" >
+                    <thead>
+                        <tr>
+                            <td width="150" height="20" id="viewid">Emplooyee ID</td>
+                            <td width="1000" height="20" id="viewname">Employee Name</td>
+                            <td width="1200" height="20" id="viewemail">Employee Email</td>
+                            <td width="500" height="20" id="viewnumber">Employee Number</td>
+                            <td width="150" height="20" id="viewage">Employee Age</td>
+                        </tr>
+                    </thead>
+                    </table>
+                <text>This is upto page number</text>
+                <h1 id="pagenumber"></h1>
+                <b>
+            </form>
+
+            <!--This is single employee display form-->
+            <form id="displayid" class="addform">
+                <input id="displaybyid" type="number" class="Toadd" placeholder="Enter ID of Employee" required>
+                <button type="button" onclick="displayemp()">Enter</button>
+                <table align="center" id="viewbyid" border="1" width="800" margin="5px">
+                    <thead>
+                        <tr>
+                            <td width="150">Emplooyee ID</td>
+                            <td width="1000">Employee Name</td>
+                            <td width="1200">Employee Email</td>
+                            <td width="500">Employee Number</td>
+                            <td width="155">Employee Age</td>
+                        </tr>
+                    </thead>
+                </table>
+            </form>
+        </div>
+    </div>
+
+    <!--This is CSS part to move a form when click on button--->
+    <script>
+        var x = document.getElementById("addEmp");
+        var y = document.getElementById("deleteid");
+        var z = document.getElementById("update");
+        var u = document.getElementById("display");
+        var v = document.getElementById("displayid");
+        var w = document.getElementById("btn");
+
+
+        function deleteid() {
+            x.style.left = "-500px";
+            y.style.left = "250px";
+            z.style.left = "2000px";
+            u.style.left = "2000px";
+            v.style.left = "2000px";
+            w.style.left = "150px";
+        }
+        function update() {
+            x.style.left = "-1000px";
+            y.style.left = "-550px";
+            z.style.left = "200px";
+            u.style.left = "2000px";
+            v.style.left = "2000px";
+            w.style.left = "300px";
+        }
+        function search() {
+            x.style.left = "-2000px";
+            y.style.left = "-1200px";
+            z.style.left = "-1500px";
+            u.style.left = "5px";
+            v.style.left = "5500px";
+            w.style.left = "455px";
+        }
+        function addid() {
+            x.style.left = "250px";
+            y.style.left = "1200px";
+            z.style.left = "2000px";
+            u.style.left = "5000px";
+            v.style.left = "5500px";
+            w.style.left = "0";
+        }
+        function display() {
+            x.style.left = "-2500px";
+            y.style.left = "-2300px";
+            z.style.left = "-2000px";
+            u.style.left = "-2000px";
+            v.style.left = "2005px";
+            w.style.left = "605px";
+        }
+    </script>
+</body>
+</html>
+
+
