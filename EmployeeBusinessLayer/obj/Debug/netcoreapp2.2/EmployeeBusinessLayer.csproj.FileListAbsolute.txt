@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\ConsoleAppMyWorld\EmployeeBusinessLayer\bin\Debug\netcoreapp2.2\EmployeeBusinessLayer.deps.json
+C:\Users\admin\source\repos\ConsoleAppMyWorld\EmployeeBusinessLayer\bin\Debug\netcoreapp2.2\EmployeeBusinessLayer.runtimeconfig.json
+C:\Users\admin\source\repos\ConsoleAppMyWorld\EmployeeBusinessLayer\bin\Debug\netcoreapp2.2\EmployeeBusinessLayer.runtimeconfig.dev.json
+C:\Users\admin\source\repos\ConsoleAppMyWorld\EmployeeBusinessLayer\bin\Debug\netcoreapp2.2\EmployeeBusinessLayer.dll
+C:\Users\admin\source\repos\ConsoleAppMyWorld\EmployeeBusinessLayer\bin\Debug\netcoreapp2.2\EmployeeBusinessLayer.pdb
+C:\Users\admin\source\repos\ConsoleAppMyWorld\EmployeeBusinessLayer\bin\Debug\netcoreapp2.2\EmployeeCommanLayer.dll
+C:\Users\admin\source\repos\ConsoleAppMyWorld\EmployeeBusinessLayer\bin\Debug\netcoreapp2.2\EmployeeRepositoryLayer.dll
+C:\Users\admin\source\repos\ConsoleAppMyWorld\EmployeeBusinessLayer\bin\Debug\netcoreapp2.2\EmployeeCommanLayer.pdb
+C:\Users\admin\source\repos\ConsoleAppMyWorld\EmployeeBusinessLayer\bin\Debug\netcoreapp2.2\EmployeeRepositoryLayer.pdb
+C:\Users\admin\source\repos\ConsoleAppMyWorld\EmployeeBusinessLayer\obj\Debug\netcoreapp2.2\EmployeeBusinessLayer.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\ConsoleAppMyWorld\EmployeeBusinessLayer\obj\Debug\netcoreapp2.2\EmployeeBusinessLayer.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\ConsoleAppMyWorld\EmployeeBusinessLayer\obj\Debug\netcoreapp2.2\EmployeeBusinessLayer.AssemblyInfo.cs
+C:\Users\admin\source\repos\ConsoleAppMyWorld\EmployeeBusinessLayer\obj\Debug\netcoreapp2.2\EmployeeBusinessLayer.csproj.CopyComplete
+C:\Users\admin\source\repos\ConsoleAppMyWorld\EmployeeBusinessLayer\obj\Debug\netcoreapp2.2\EmployeeBusinessLayer.dll
+C:\Users\admin\source\repos\ConsoleAppMyWorld\EmployeeBusinessLayer\obj\Debug\netcoreapp2.2\EmployeeBusinessLayer.pdb

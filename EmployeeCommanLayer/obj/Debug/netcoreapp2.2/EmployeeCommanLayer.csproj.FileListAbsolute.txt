@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\ConsoleAppMyWorld\EmployeeCommanLayer\bin\Debug\netcoreapp2.2\EmployeeCommanLayer.deps.json
+C:\Users\admin\source\repos\ConsoleAppMyWorld\EmployeeCommanLayer\bin\Debug\netcoreapp2.2\EmployeeCommanLayer.runtimeconfig.json
+C:\Users\admin\source\repos\ConsoleAppMyWorld\EmployeeCommanLayer\bin\Debug\netcoreapp2.2\EmployeeCommanLayer.runtimeconfig.dev.json
+C:\Users\admin\source\repos\ConsoleAppMyWorld\EmployeeCommanLayer\bin\Debug\netcoreapp2.2\EmployeeCommanLayer.dll
+C:\Users\admin\source\repos\ConsoleAppMyWorld\EmployeeCommanLayer\bin\Debug\netcoreapp2.2\EmployeeCommanLayer.pdb
+C:\Users\admin\source\repos\ConsoleAppMyWorld\EmployeeCommanLayer\obj\Debug\netcoreapp2.2\EmployeeCommanLayer.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\ConsoleAppMyWorld\EmployeeCommanLayer\obj\Debug\netcoreapp2.2\EmployeeCommanLayer.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\ConsoleAppMyWorld\EmployeeCommanLayer\obj\Debug\netcoreapp2.2\EmployeeCommanLayer.AssemblyInfo.cs
+C:\Users\admin\source\repos\ConsoleAppMyWorld\EmployeeCommanLayer\obj\Debug\netcoreapp2.2\EmployeeCommanLayer.dll
+C:\Users\admin\source\repos\ConsoleAppMyWorld\EmployeeCommanLayer\obj\Debug\netcoreapp2.2\EmployeeCommanLayer.pdb
