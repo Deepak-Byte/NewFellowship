@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\PrimeNumberRange\PrimeNumberRange\bin\Debug\netcoreapp3.0\PrimeNumberRange.exe
+C:\Users\admin\source\repos\PrimeNumberRange\PrimeNumberRange\bin\Debug\netcoreapp3.0\PrimeNumberRange.deps.json
+C:\Users\admin\source\repos\PrimeNumberRange\PrimeNumberRange\bin\Debug\netcoreapp3.0\PrimeNumberRange.runtimeconfig.json
+C:\Users\admin\source\repos\PrimeNumberRange\PrimeNumberRange\bin\Debug\netcoreapp3.0\PrimeNumberRange.runtimeconfig.dev.json
+C:\Users\admin\source\repos\PrimeNumberRange\PrimeNumberRange\bin\Debug\netcoreapp3.0\PrimeNumberRange.dll
+C:\Users\admin\source\repos\PrimeNumberRange\PrimeNumberRange\bin\Debug\netcoreapp3.0\PrimeNumberRange.pdb
+C:\Users\admin\source\repos\PrimeNumberRange\PrimeNumberRange\obj\Debug\netcoreapp3.0\PrimeNumberRange.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\PrimeNumberRange\PrimeNumberRange\obj\Debug\netcoreapp3.0\PrimeNumberRange.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\PrimeNumberRange\PrimeNumberRange\obj\Debug\netcoreapp3.0\PrimeNumberRange.AssemblyInfo.cs
+C:\Users\admin\source\repos\PrimeNumberRange\PrimeNumberRange\obj\Debug\netcoreapp3.0\PrimeNumberRange.dll
+C:\Users\admin\source\repos\PrimeNumberRange\PrimeNumberRange\obj\Debug\netcoreapp3.0\PrimeNumberRange.pdb
