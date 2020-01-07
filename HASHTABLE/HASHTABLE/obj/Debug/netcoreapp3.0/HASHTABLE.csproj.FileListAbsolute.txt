@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\HASHTABLE\HASHTABLE\bin\Debug\netcoreapp3.0\HASHTABLE.exe
+C:\Users\admin\source\repos\HASHTABLE\HASHTABLE\bin\Debug\netcoreapp3.0\HASHTABLE.deps.json
+C:\Users\admin\source\repos\HASHTABLE\HASHTABLE\bin\Debug\netcoreapp3.0\HASHTABLE.runtimeconfig.json
+C:\Users\admin\source\repos\HASHTABLE\HASHTABLE\bin\Debug\netcoreapp3.0\HASHTABLE.runtimeconfig.dev.json
+C:\Users\admin\source\repos\HASHTABLE\HASHTABLE\bin\Debug\netcoreapp3.0\HASHTABLE.dll
+C:\Users\admin\source\repos\HASHTABLE\HASHTABLE\bin\Debug\netcoreapp3.0\HASHTABLE.pdb
+C:\Users\admin\source\repos\HASHTABLE\HASHTABLE\obj\Debug\netcoreapp3.0\HASHTABLE.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\HASHTABLE\HASHTABLE\obj\Debug\netcoreapp3.0\HASHTABLE.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\HASHTABLE\HASHTABLE\obj\Debug\netcoreapp3.0\HASHTABLE.AssemblyInfo.cs
+C:\Users\admin\source\repos\HASHTABLE\HASHTABLE\obj\Debug\netcoreapp3.0\HASHTABLE.dll
+C:\Users\admin\source\repos\HASHTABLE\HASHTABLE\obj\Debug\netcoreapp3.0\HASHTABLE.pdb
