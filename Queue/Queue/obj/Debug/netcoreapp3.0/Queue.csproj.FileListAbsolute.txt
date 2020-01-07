@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\Queue\Queue\bin\Debug\netcoreapp3.0\Queue.exe
+C:\Users\admin\source\repos\Queue\Queue\bin\Debug\netcoreapp3.0\Queue.deps.json
+C:\Users\admin\source\repos\Queue\Queue\bin\Debug\netcoreapp3.0\Queue.runtimeconfig.json
+C:\Users\admin\source\repos\Queue\Queue\bin\Debug\netcoreapp3.0\Queue.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Queue\Queue\bin\Debug\netcoreapp3.0\Queue.dll
+C:\Users\admin\source\repos\Queue\Queue\bin\Debug\netcoreapp3.0\Queue.pdb
+C:\Users\admin\source\repos\Queue\Queue\obj\Debug\netcoreapp3.0\Queue.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Queue\Queue\obj\Debug\netcoreapp3.0\Queue.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Queue\Queue\obj\Debug\netcoreapp3.0\Queue.AssemblyInfo.cs
+C:\Users\admin\source\repos\Queue\Queue\obj\Debug\netcoreapp3.0\Queue.dll
+C:\Users\admin\source\repos\Queue\Queue\obj\Debug\netcoreapp3.0\Queue.pdb
