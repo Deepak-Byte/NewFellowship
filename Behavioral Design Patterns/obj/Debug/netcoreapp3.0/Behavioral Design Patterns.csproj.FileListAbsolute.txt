@@ -1,0 +1,55 @@
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\Behavioral Design Patterns.exe
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\obj\Debug\netcoreapp3.0\Behavioral Design Patterns.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\obj\Debug\netcoreapp3.0\Behavioral Design Patterns.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\obj\Debug\netcoreapp3.0\Behavioral Design Patterns.AssemblyInfo.cs
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\System.Reactive.dll
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\System.Reactive.xml
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\obj\Debug\netcoreapp3.0\Behavioral Design Patterns.csproj.CopyComplete
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\IKVM.AWT.WinForms.dll
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\IKVM.OpenJDK.Beans.dll
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\IKVM.OpenJDK.Charsets.dll
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\IKVM.OpenJDK.Cldrdata.dll
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\IKVM.OpenJDK.Corba.dll
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\IKVM.OpenJDK.Core.dll
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\IKVM.OpenJDK.Jdbc.dll
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\IKVM.OpenJDK.Localedata.dll
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\IKVM.OpenJDK.Management.dll
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\IKVM.OpenJDK.Media.dll
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\IKVM.OpenJDK.Misc.dll
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\IKVM.OpenJDK.Naming.dll
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\IKVM.OpenJDK.Nashorn.dll
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\IKVM.OpenJDK.Remoting.dll
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\IKVM.OpenJDK.Security.dll
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\IKVM.OpenJDK.Text.dll
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\IKVM.OpenJDK.Tools.dll
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\IKVM.OpenJDK.Util.dll
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\IKVM.OpenJDK.XML.API.dll
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\IKVM.Runtime.JNI.dll
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\IKVM.Runtime.dll
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\Microsoft.Build.Framework.dll
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\Microsoft.Build.Tasks.Core.dll
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\Microsoft.Build.Utilities.Core.dll
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\System.CodeDom.dll
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\System.Resources.Extensions.dll
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\Behavioral Design Patterns.deps.json
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\Behavioral Design Patterns.runtimeconfig.json
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\Behavioral Design Patterns.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\Behavioral Design Patterns.dll
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\Behavioral Design Patterns.pdb
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\Stripe.net.dll
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\System.Security.Permissions.dll
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\obj\Debug\netcoreapp3.0\Behavioral Design Patterns.dll
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\obj\Debug\netcoreapp3.0\Behavioral Design Patterns.pdb
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\Antlr3.Runtime.dll
+C:\Users\admin\source\repos\Behavioral Design Patterns\Behavioral Design Patterns\bin\Debug\netcoreapp3.0\WebGrease.dll
